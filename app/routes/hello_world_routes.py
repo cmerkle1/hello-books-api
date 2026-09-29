@@ -1,4 +1,4 @@
-from flask import Blueprint
+"""from flask import Blueprint
 
 hello_world_bp = Blueprint("hello_world_bp", __name__)
 
@@ -26,4 +26,4 @@ def broken_endpoint():
     }
     new_hobby = "Surfing"
     response_body["hobbies"].append(new_hobby)
-    return response_body
+    return response_body"""
